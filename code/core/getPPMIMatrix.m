@@ -1,6 +1,6 @@
 %% Calculate Positive Pointwise Mutual Information Matrix %%
 
-function PPMI = getPPMIMatrix(M)
+function PPMI = GetPPMIMatrix(M)
 
 M = ScaleSimMat(M);
 
