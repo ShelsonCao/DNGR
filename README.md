@@ -14,5 +14,5 @@ If you want to use this code, please kindly cite our paper
   title={Deep Neural Networks for Learning Graph Representations},<br/>
   booktitle={Proceedings of the Association for the Advancement of Artificial Intelligence},<br/>
   author={Cao, Shaosheng and Lu, Wei and Xu, Qiongkai},<br/>
-  year={2016}
+  year={2016}<br/>
 }
